@@ -1,4 +1,3 @@
-# nlasss
 run_project.py  (Start Here)
     │
     ├── imports --> ssgetpy (Download)
@@ -16,7 +15,6 @@ plot_results.py (Run Last)
     ├── reads ----> benchmark_results.csv
     │
     └── imports --> ric2cg.py (To re-run trace for history plot)
-
 
 ### Project Overview
 **Goal:** To implement the **RIC2S** (Robust Incomplete Cholesky 2nd Order Stabilized) preconditioner from the Kaporin (1998) paper and benchmark it against standard methods (CG, Jacobi, ILU) on sparse matrices.
