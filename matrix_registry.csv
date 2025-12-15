@@ -1,0 +1,11 @@
+name,group,rows,cols,nnz,path,status
+bcsstk08,HB,1074,1074,12960,matrices_collection/bcsstk08/bcsstk08.mtx,Ready
+bcsstk09,HB,1083,1083,18437,matrices_collection/bcsstk09/bcsstk09.mtx,Ready
+bcsstk10,HB,1086,1086,22070,matrices_collection/bcsstk10/bcsstk10.mtx,Ready
+bcsstk11,HB,1473,1473,34241,matrices_collection/bcsstk11/bcsstk11.mtx,Ready
+bcsstk12,HB,1473,1473,34241,matrices_collection/bcsstk12/bcsstk12.mtx,Ready
+bcsstk14,HB,1806,1806,63454,matrices_collection/bcsstk14/bcsstk14.mtx,Ready
+bcsstk15,HB,3948,3948,117816,matrices_collection/bcsstk15/bcsstk15.mtx,Ready
+bcsstk16,HB,4884,4884,290378,matrices_collection/bcsstk16/bcsstk16.mtx,Ready
+bcsstk17,HB,10974,10974,428650,matrices_collection/bcsstk17/bcsstk17.mtx,Ready
+bcsstk18,HB,11948,11948,149090,matrices_collection/bcsstk18/bcsstk18.mtx,Ready

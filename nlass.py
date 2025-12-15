@@ -1,7 +1,7 @@
 import time
 import numpy as np
 import scipy.sparse as sp
-from scipy.sparse.linalg import cg, spilu, splu, LinearOperator
+from scipy.sparse.linalg import cg, spilu, splu, LinearOperator, spsolve_triangular
 from ric2cg import RIC2CG
 
 class NLASS:
